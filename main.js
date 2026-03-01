@@ -51,3 +51,16 @@
 //     alert(Math.max(a, b, c))
 // }
 
+// 4-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// if ( a === b && a !== c) {
+//     alert("Tartib raqam c 3-haff")
+// } else if(a === c && a !== b) {
+//     alert("Tartib raqam b 2-xarf")
+// }else if(a !== c && b === c ){
+//     alert("tartib raqam a 1-xarf")
+// }
