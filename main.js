@@ -39,3 +39,15 @@
 // console.log("Musbat sonlar soni", musbat, "Manfiy sonlar soni", manfiy);
 
 
+// 3-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// if (a, b, c) {
+//     alert(Math.min(a, b, c))
+// }else{
+//     alert(Math.max(a, b, c))
+// }
+
