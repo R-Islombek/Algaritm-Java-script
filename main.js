@@ -74,3 +74,36 @@
 // } else {
 //     alert(-3 * x)
 // }
+
+// 6-Masala;
+
+
+// let day = +prompt("Hafta kunlarini kiriting")
+
+// switch (day) {
+//     case 1:
+//         alert("Dushanba")
+//         break;
+//     case 2:
+//         alert("Seshanba")
+//         break;
+//     case 3:
+//         alert("Chorshanba")
+//         break;
+//     case 4:
+//         alert("Payshanba")
+//         break;
+//     case 5:
+//         alert("Juma")
+//         break;
+//     case 6:
+//         alert("Shanba")
+//         break;
+//     case 7:
+//         alert("Yakshanba")
+//         break;
+
+//     default:
+//         alert("1 dan 7 gacha sonlar orasidagi son kiriting")
+//         break;
+// }
