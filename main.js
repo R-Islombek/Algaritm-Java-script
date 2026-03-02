@@ -107,3 +107,28 @@
 //         alert("1 dan 7 gacha sonlar orasidagi son kiriting")
 //         break;
 // }
+
+// 7-Masala;
+
+// let day = prompt("son kiriting")
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// switch (day) {
+//     case 1:
+//         alert(a + b)
+//         break;
+//     case 2:
+//         alert(a - b)
+//         break;
+//     case 3:
+//         alert(a / b)
+//         break;
+//     case 4:
+//         alert(a * b)
+//         break;
+//     default:
+//         alert(" 1 dan 4 gacha son kiriting")
+//         break;
+// }
