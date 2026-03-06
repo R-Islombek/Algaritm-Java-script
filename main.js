@@ -132,3 +132,5 @@
 //         alert(" 1 dan 4 gacha son kiriting")
 //         break;
 // }
+
+// 8
