@@ -229,4 +229,14 @@
 
 // console.log(kichik);
 
+// 7-Masala;
+
+let a = 8;
+let b = 10;
+
+
+
+
+
+
 
