@@ -148,6 +148,8 @@
 
 // Uyga vazifadan;
 
+// 1-Masala;
+
 // let number = prompt("son kiriting");
 
 // if (number > 0) {
@@ -155,3 +157,16 @@
 // } else {
 //     alert(number)
 // }
+
+// 2-Masala;
+
+// let number = prompt("son kiriting");
+
+// if (number > 0) {
+//     alert(number + 1)
+// } else if(number < 0){
+//     alert(number - 2) 
+// }else if(number === 0){
+//     alert(10)
+// }
+
