@@ -133,6 +133,25 @@
 //         break;
 // }
 
-// 8
-// 9
-// header
+// Case 3-Masala;
+
+// let number = prompt("Yoshingizni kiriting");
+
+
+// switch (number) {
+//     case value:
+//          break;
+
+//     default:
+//         break;
+// }
+
+// Uyga vazifadan;
+
+// let number = prompt("son kiriting");
+
+// if (number > 0) {
+//      alert(number + 1)
+// } else {
+//     alert(number)
+// }
