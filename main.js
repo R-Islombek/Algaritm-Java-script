@@ -208,3 +208,25 @@
 
 // console.log("Katta sonlar",k,  "Kichik sonlar", kichik );
 
+// 5-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// if (a > b) {
+//     alert("tartib raqam b harf")
+// } else {
+//     alert("a")
+// }
+
+// 6-Masala
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// katta = Math.max(a, b);
+// kichik = Math.min(a, b);
+
+// console.log(kichik);
+
+
