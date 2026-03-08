@@ -271,6 +271,21 @@
 
 // console.log(kichik);
 
+// 11-Masala;
+
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// let c = +prompt("c sonini kiriting");
+
+// let katta = Math.max(a, b, c);
+// let kichik = Math.min(a, b, c);
+// let sum = a + b + c;
+
+// let orta = sum - (katta + kichik);
+
+// console.log(orta);
+
+
 
 
 
