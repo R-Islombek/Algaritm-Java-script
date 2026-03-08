@@ -249,6 +249,17 @@
 //    alert(a, b)
 // }
 
+// 9-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// if ( a !== b) {
+//     alert(Math.max(a, b))
+// } else {
+//     alert(0)
+// }
+
 
 
 
