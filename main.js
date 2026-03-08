@@ -231,8 +231,26 @@
 
 // 7-Masala;
 
-let a = 8;
-let b = 10;
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+
+// 8-Masala;
+
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+
+
+// if (a !== b) {
+//     alert( a + b)
+// } else if(a === b){
+//     alert(0)
+// }else {
+//    alert(a, b)
+// }
+
+
+
 
 
 
