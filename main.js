@@ -197,3 +197,14 @@
 // if(c < 0){
 //     manfiy--
 // }
+
+// 4-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// katta = Math.max(a, b);
+// kichik = Math.min(a, b);
+
+// console.log("Katta sonlar",k,  "Kichik sonlar", kichik );
+
