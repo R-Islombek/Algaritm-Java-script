@@ -321,7 +321,24 @@
 //     alert("false")
 // }
 
+// 15-Masala;
 
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+// let d = prompt("d sonini kiriting");
+
+// if (a === b && b === c && c !== d) {
+//     alert("tartib raqam d")
+// } else if(a === b && b === d && d == c) {
+//     alert("tartib raqam d")
+// }else if( a === d && d === c && c !== b ){
+//     alert("Tartib raqam b")
+// }else if( b === c && c === d && d !== a ){
+//     alert("Tartib raqam a")
+// }else{
+//     alert("Tartib raqam yo'q")
+// }
 
 
 
