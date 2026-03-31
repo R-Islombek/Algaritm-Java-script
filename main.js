@@ -340,6 +340,17 @@
 //     alert("Tartib raqam yo'q")
 // }
 
+// 16-Masala;
+
+// let x = prompt("x sonimizni kiriting");
+
+// if ( x < 0 ) {
+//     alert(-x)
+// } else if( x > 0 && x < 2 ){
+//     alert(Math.pow(x, 2))
+// }else if(x >= 2 ){
+//     alert(4)
+// }
 
 
 
