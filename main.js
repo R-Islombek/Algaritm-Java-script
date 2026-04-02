@@ -354,7 +354,13 @@
 
 // 17-Masala;
 
+// let year = prompt("Yiil kiriting");
 
+// if (year % 4 === 0 && year % 100 === 0) {
+//     alert("Kabisa yili")
+// } else {
+//     alert("Kabisa yili emas")
+// }
 
 
 
